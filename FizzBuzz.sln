@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{8577F414-DE2F-404A-AF80-5C580F4F06B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzEngine", "FizzBuzzEngine\FizzBuzzEngine.csproj", "{C662A9D6-F96D-43A9-8475-4C598513CBC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzAPI", "FizzBuzzAPI\FizzBuzzAPI.csproj", "{1E6C2E8F-CE88-4A84-8CA8-2C1A37065E1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzEngineUnitTest", "FizzBuzzEngineUnitTest\FizzBuzzEngineUnitTest.csproj", "{0A9D0F78-2819-4F46-A38E-3589E3C9195A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8577F414-DE2F-404A-AF80-5C580F4F06B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8577F414-DE2F-404A-AF80-5C580F4F06B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8577F414-DE2F-404A-AF80-5C580F4F06B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8577F414-DE2F-404A-AF80-5C580F4F06B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C662A9D6-F96D-43A9-8475-4C598513CBC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C662A9D6-F96D-43A9-8475-4C598513CBC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C662A9D6-F96D-43A9-8475-4C598513CBC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C662A9D6-F96D-43A9-8475-4C598513CBC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E6C2E8F-CE88-4A84-8CA8-2C1A37065E1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E6C2E8F-CE88-4A84-8CA8-2C1A37065E1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E6C2E8F-CE88-4A84-8CA8-2C1A37065E1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E6C2E8F-CE88-4A84-8CA8-2C1A37065E1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9D0F78-2819-4F46-A38E-3589E3C9195A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9D0F78-2819-4F46-A38E-3589E3C9195A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9D0F78-2819-4F46-A38E-3589E3C9195A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9D0F78-2819-4F46-A38E-3589E3C9195A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
